@@ -1,1 +1,1 @@
-# CV-complete-web-wevelopment-bootcamp
+# CV-complete-web-webdevelopment-bootcamp
